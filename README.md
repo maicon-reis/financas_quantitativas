@@ -5,4 +5,5 @@ Repositório destinado ao armazenamento dos meus principais estudos na área de 
 Linguagem de Programação utilizada: Python
 
 Índice:
-1. [RSI](https://github.com/maicon-reis/financas_quantitativas/blob/main/RSI_Trade_Fun%C3%A7%C3%A3o.ipynb)
+1. [Criando uma Carteira Utilizada utilizando Fronteira Eficiente de Markowitz](https://github.com/maicon-reis/financas_quantitativas/blob/main/Carteira_Dividendos_Otimizada.ipynb)
+2. [RSI](https://github.com/maicon-reis/financas_quantitativas/blob/main/RSI_Trade_Fun%C3%A7%C3%A3o.ipynb)
