@@ -5,3 +5,4 @@ Repositório destinado ao armazenamento dos meus principais estudos na área de 
 Linguagem de Programação utilizada: Python
 
 Índice:
+1. [RSI](https://github.com/maicon-reis/financas_quantitativas/blob/main/RSI_Trade_Fun%C3%A7%C3%A3o.ipynb)
